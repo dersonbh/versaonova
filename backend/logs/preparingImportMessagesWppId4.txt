@@ -1,0 +1,7 @@
+Aguardando conexão para iniciar a importação de mensagens:
+  Whatsapp nome: Rádio 101FM
+  Whatsapp Id: 4
+  Criação do arquivo de logs: 17/05/2024 14:11:36
+  Selecionado Data de inicio de importação: 01/11/2023 10:10:00 
+  Selecionado Data final da importação: 17/05/2024 10:09:00 
+   
